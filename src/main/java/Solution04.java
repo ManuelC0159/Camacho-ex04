@@ -21,3 +21,16 @@ public class Solution04 {
 
     }
 }
+/*
+    PseudoCode
+    Ask user for noun
+    Get noun from user using standard input
+    Ask user for verb
+    get verb from user using standard input
+    Ask user for adjective
+    get adjective from user using standard input
+    Ask user for adverb
+    get adverb from user using standard input
+    put all together to make simple story, print story in standard output
+
+ */
